@@ -161,8 +161,11 @@ Exemplo de Linha de comando para executar o Apache Hop
 
 ![](./imagens/tela_nova_tarefa_linha_de_comando.png)
 
-Após todos este procedumentos procure por `Contruir agora` para testar a execução.
 
+Linha de comando
+`%HOP_RUN_BAT% -e hop-repo-prd -j hop_repo -r local -f ${PROJECT_HOME}\CITRUS\JOB_SCORE_SHEET.hwf`
+
+Após todos este procedumentos procure por `Contruir agora` para testar a execução.
 
 Siga estudando o Jenkins, pois ele há muitas opções para explorar.
 
