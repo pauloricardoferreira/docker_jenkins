@@ -171,6 +171,10 @@ Siga estudando o Jenkins, pois ele há muitas opções para explorar.
 
 Ex: Contruir as pipelines via código usando o git como repositório.
 
+**É impossível abordar todos os casos, por isso, estudo bem a ferramenta**
+
+**Estudo também sobre Linux** isso vai lhe ajudar a adiquirir outros conhecimentos que são importantes para manter ferramentas, buscar oturas soluções, implementar novas técnologias.
+
 [Exemplos de Jenkins com Fabricio Veronez](https://www.youtube.com/watch?v=O6y27_Ol25g)
 
 [Linux Tips - Docker](https://www.youtube.com/watch?v=Wm99C_f7Kxw&list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR&pp=iAQB)
